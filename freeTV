@@ -1,6 +1,6 @@
 #EXTM3U URL 
 #EXTINF:-1,5 HD
-http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
 
 #EXTINF:-1,NBT HD
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
@@ -67,6 +67,18 @@ https://live.topnews.co.th/hls/topnews_a_480.m3u8
 
 #EXTINF:-1,วัวชน ถิ่นใต้
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+
+#EXTINF:-1,Animal Planet
+http://178.175.132.170:8888/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1,H2
+http://178.175.132.170:8888/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:-1,History
+http://178.175.132.170:8888/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1,National Geographic EN
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -190,3 +202,24 @@ http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
 
 #EXTINF:-1,sport7
 http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1,Euro Sport 1
+http://178.175.132.170:8888/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:-1,ERROR Euro Sport 2
+http://178.175.132.170:8888/02_EUROHD2_720p/chunklist.m3u8
+
+#EXTINF:-1,ERROR Sport TV1
+http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1,Sport TV2
+http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1,Sport TV3
+http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1,Sport TV4
+http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1,ERROR Sport TV5
+http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
